@@ -25,7 +25,6 @@ I started this project by downloading the dataset and imporing the csv as a data
 For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events.
 
 # Results
-![image](https://github.com/CurtisBender/Free-Throws/assets/143849290/33ac5abe-53f6-4a29-bee0-1e8ab043f95f)
 
 <img src="[https://your-image-url.type](https://github.com/CurtisBender/Free-Throws/assets/143849290/33ac5abe-53f6-4a29-bee0-1e8ab043f95f)" width="100" height="100">
 
