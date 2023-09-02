@@ -25,6 +25,8 @@ I started this project by downloading the dataset and imporing the csv as a data
 For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events.
 
 # Results
+![image](https://github.com/CurtisBender/Free-Throws/assets/143849290/9901e1b4-da05-48ad-b70b-e438d1172062)
+
 Of the sample of 500 players that had a large enough sample size, only 40 had statistically significant differences at the 0.05 level. Of those 40 players, 36 players had a higher probability of making the second free throw if them made the first free throw, and 4 had a higher probability of making the second free throw if they missed the first free throw.
 
 In conclusion, for most players there is not a statistically significant difference in the probability of making the second free throw after making or missing the first free throw. Of the few players that do have a statistically significant difference, most players had a higher probability of making the second free throw if they made the first free throw. This supports the idea that making the first shot indicates that the player is in the 'zone'.
