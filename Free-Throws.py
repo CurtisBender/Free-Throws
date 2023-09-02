@@ -1,8 +1,8 @@
 import pandas
 import pandas as pd
-pd.options.mode.chained_assignment = None
 import scipy.stats as st
 import numpy as np
+pd.options.mode.chained_assignment = None
 
 #Create a dataframe by reading csv
 df = pd.read_csv(r'C:\Users\bendc\OneDrive\Documents\Free Throws\free_throws.csv')
