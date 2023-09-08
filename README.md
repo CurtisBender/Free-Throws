@@ -20,7 +20,7 @@ The test statistic used to calculate the p-value for each player was obtained fr
 (n.d.). https://www.itl.nist.gov/div898/handbook/prc/section3/prc33.htm 
 
 # Process
-I started this project by downloading the dataset and importing the csv as a dataframe in Python. As a result of an error by the NBA or the Kaggle member that scraped the data, there were instances of free throw shot 1 of 2 appearing twice or free throw shot 2 of 2 missing. As a result, some data cleaning was required. From there, I reconfigured it to allow me to perform statistical analysis. 
+I started this project by downloading the dataset and importing the csv as a dataframe in Python. As a result of an error by the NBA or the Kaggle member that scraped the data, there were instances of free throw shot 1 of 2 appearing twice or free throw shot 2 of 2 missing. As a result, some data cleaning was required. From there, I reconfigured the dataframe to allow me to perform statistical analysis. 
 
 For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events.
 
