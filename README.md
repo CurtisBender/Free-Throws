@@ -20,7 +20,7 @@ The test statistic used to calculate the p-value for each player was obtained fr
 (n.d.). https://www.itl.nist.gov/div898/handbook/prc/section3/prc33.htm 
 
 # Process
-I started this project by downloading the dataset and imporing the csv as a dataframe in Python. From there, I cleaned the data and reconfigured it to allow me to perform statistiacal analysis. 
+I started this project by downloading the dataset and importing the csv as a dataframe in Python. From there, I cleaned the data and reconfigured it to allow me to perform statistiacal analysis. 
 
 For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events.
 
