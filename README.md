@@ -27,6 +27,6 @@ For each player with a large enough sample of free throws, I calculated the p-va
 # Results
 ![Results](https://github.com/CurtisBender/Free-Throws/assets/143849290/d17adf33-df97-450b-9ff7-a34937f0ba2b)
 
-Of the sample of 500 players that had a large enough sample size, only 40 had statistically significant differences at the 0.05 level. Of those 40 players, 36 had a higher probability of making the second free throw if they made the first free throw, and 4 had a higher probability of making the second free throw if they missed the first free throw.
+A sample size of at least 30 free throws in both the missed first and made first groups was considered large enough. Of the sample of 500 players that had a large enough sample size, only 40 had statistically significant differences at the 0.05 level. Of those 40 players, 36 had a higher probability of making the second free throw if they made the first free throw, and 4 had a higher probability of making the second free throw if they missed the first free throw.
 
 In conclusion, for most players, there is not a statistically significant difference in the probability of making the second free throw after making or missing the first free throw. Of the few players that do have a statistically significant difference, most players had a higher probability of making the second free throw if they made the first free throw. This supports the idea that making the first shot indicates that the player is in the 'zone'.
