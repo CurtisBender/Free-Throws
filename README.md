@@ -1,4 +1,4 @@
-# Are Consecutive Free Throws Independent Events?
+# Are Consecutive Free Throws Dependent Events?
 
 # Purpose
 The goal of this project was to determine if the first free throw shot affects the probability of making the second free throw shot, and if it does, how does it affect it?
