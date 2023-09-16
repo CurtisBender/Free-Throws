@@ -1,4 +1,3 @@
-import pandas
 import pandas as pd
 import scipy.stats as st
 import numpy as np
@@ -97,6 +96,6 @@ num_hit_1st_worse = df_stat_sig[(df_stat_sig['theta_hat_1'] - df_stat_sig['theta
 
 #Create a dataframe that contains the results
 results = [total_num_players, num_stat_sig, num_hit_1st_better, num_hit_1st_worse]
-df_results = pandas.DataFrame([results], columns=['Total Players', 'Statistically Significant', 'Better to Make 1st', 'Better to Miss 1st'])
+df_results = pd.DataFrame([results], columns=['Total Players', 'Statistically Significant', 'Better to Make 1st', 'Better to Miss 1st'])
 
 print(df_results.iloc[0])
