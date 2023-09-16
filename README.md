@@ -25,7 +25,12 @@ I started this project by downloading the dataset and importing the csv as a dat
 A sample size of at least 30 free throws in both the missed first and made first groups was considered large enough. For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events. Here is a sample calculation for [LeBron James](https://github.com/CurtisBender/Free-Throws/blob/main/P-Value%20Calculation%20Example.pdf).
 
 # Results
-![Results](https://github.com/CurtisBender/Free-Throws/assets/143849290/d17adf33-df97-450b-9ff7-a34937f0ba2b)
+```
+Total Players                500
+Statistically Significant     40
+Better to Make 1st            36
+Better to Miss 1st             4
+```
 
 Of the sample of 500 players that had a large enough sample size, only 40 had statistically significant differences at the 0.05 level. Of those 40 players, 36 had a higher probability of making the second free throw if they made the first free throw, and 4 had a higher probability of making the second free throw if they missed the first free throw.
 
