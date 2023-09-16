@@ -22,7 +22,7 @@ The test statistic used to calculate the p-value for each player was obtained fr
 # Process
 I started this project by downloading the dataset and importing the csv as a dataframe in Python. As a result of an error by the NBA or the Kaggle member that scraped the data, there were instances of free throw shot 1 of 2 appearing twice or free throw shot 2 of 2 missing. As a result, some data cleaning was required. From there, I reconfigured the dataframe to allow me to perform statistical analysis. 
 
-A sample size of at least 30 free throws in both the missed first and made first groups was considered large enough. For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events. Here is a sample calculation for [LeBron James](https://github.com/CurtisBender/Free-Throws/blob/main/P-Value%20Calculation%20Example.pdf).
+A sample size of at least 30 free throws in both the missed first and made first groups was considered large enough. For each player with a large enough sample of free throws, I calculated the p-value with the null hypothesis that consecutive free throws are independent events. Here is a rigorous sample calculation for the p-value of [LeBron James](https://github.com/CurtisBender/Free-Throws/blob/main/P-Value%20Calculation%20Example.pdf).
 
 # Results
 ```
