@@ -4,7 +4,7 @@ import numpy as np
 pd.options.mode.chained_assignment = None
 
 #Create a dataframe by reading csv
-df = pd.read_csv(r'C:\Users\bendc\OneDrive\Documents\Free Throws\free_throws.csv')
+df = pd.read_csv(r'C:\Users\bendc\OneDrive\Documents\Free_Throws\free_throws.csv')
 
 #Remove unneeded columns
 df.drop(['end_result', 'game', 'game_id', 'period', 'playoffs', 'score', 'season', 'time'], axis='columns', inplace=True)
