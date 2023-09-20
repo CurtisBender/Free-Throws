@@ -32,6 +32,6 @@ Better to Make 1st            36
 Better to Miss 1st             4
 ```
 
-Of the sample of 500 players that had a large enough sample size, only 40 had statistically significant differences at the 0.05 level. Of those 40 players, 36 had a higher probability of making the second free throw if they made the first free throw, and 4 had a higher probability of making the second free throw if they missed the first free throw.
+Of the sample of 500 players that had a large enough sample size, only 40 had a statistically significant difference at the 0.05 level. Of those 40 players, 36 had a higher probability of making the second free throw if they made the first free throw, and 4 had a higher probability of making the second free throw if they missed the first free throw.
 
-In conclusion, for most players, there is not a statistically significant difference in the probability of making the second free throw after making or missing the first free throw. Of the few players that do have a statistically significant difference, most players had a higher probability of making the second free throw if they made the first free throw. This supports the idea that making the first shot indicates that the player is in the 'zone'.
+In conclusion, for most players, there is not a statistically significant difference in the probability of making the second free throw after making or missing the first free throw. Of the few players that do have a statistically significant difference, most had a higher probability of making the second free throw if they made the first free throw. This supports the idea that making the first shot indicates that the player is in the 'zone'.
